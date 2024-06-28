@@ -140,7 +140,7 @@ const submitDiagnostics = (submissionObj) => {
     console.error('Error:', error);
     })
   alert('Error');
-};
+}};
 
 // Function to handle when a user submits the feedback form
 const handleFormSubmit = (e) => {
